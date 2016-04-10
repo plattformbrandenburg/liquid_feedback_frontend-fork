@@ -735,7 +735,7 @@ return {
 ["[Name of Language]"] = "Deutsch";
 ["[Not public]"] = "[Nicht öffentlich]";
 ["[calculating]"] = "[wird berechnet...]";
-["[event mail]       URL: #{url}"] = "         URL: #{url}";
+["[event mail]       URL: #{url}"] = "         URL: <#{url}>";
 ["[event mail]      Area: #{name}"] = "Themenbereich: #{name}";
 ["[event mail]      Unit: #{name}"] = "  Gliederung: #{name}";
 ["[event mail]     Event: #{event}"] = "    Ereignis: #{event}";
